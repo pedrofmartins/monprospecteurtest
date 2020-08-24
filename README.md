@@ -13,8 +13,9 @@ First of all, you will need to instal robotframework:
     <li>Open in your preferred code writer(I use VSCode)</li>
     <li>Run the tests using: robot -d ./results tests/alertsCreation.robot</li>
 </ul>
+
   **Automation**
-<ul>
+    <ul>
     <li>Architecture</li>
     <ul>
         <li>Used Robot Framework</li>
