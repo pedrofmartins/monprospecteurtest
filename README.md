@@ -24,7 +24,7 @@ First of all, you will need to instal robotframework:
     </ul>
   
   **Tests**
-  In this seccion we have all test cases wrotten in english, I used some particular language because it is easier to all stakeholders to read and understand.
+  In this seccion we have all test cases wrotten in english, I used some particular language because in my opnion it is easier to all stakeholders to read and understand.
   
   **Resources**
   In this seccion we write all code, I like to create all variables and in each step of test case only input these variables in line code. This way make it more comfortable for future changes.
