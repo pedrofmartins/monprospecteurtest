@@ -30,4 +30,5 @@ First of all, you will need to instal robotframework:
   In this seccion we write all code, I like to create all variables and in each step of test case only input these variables in line code. This way make it more comfortable for future changes.
   
 
-[![Watch the video](video.png)](https://vimeo.com/451322124)
+[![Watch the video](
+<img src="/images/video.png">)](https://vimeo.com/451322124)
